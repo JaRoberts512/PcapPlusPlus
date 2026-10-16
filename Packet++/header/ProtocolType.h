@@ -257,6 +257,9 @@ namespace pcpp
 	/// MySQL protocol
 	const ProtocolType MySQL = 63;
 
+	/// VITA49.2 protocol
+	const ProtocolType Vita49dot2 = 64;
+
 	/// FTP protocol family (FTPControl and FtpData protocols)
 	const ProtocolTypeFamily FTP = 0x3c29;
 

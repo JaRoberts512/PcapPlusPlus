@@ -68,6 +68,7 @@ add_library(
   src/TLVData.cpp
   src/TpktLayer.cpp
   src/UdpLayer.cpp
+  src/Vita49dot2Layer.cpp
   src/VlanLayer.cpp
   src/VrrpLayer.cpp
   src/VxlanLayer.cpp
@@ -150,6 +151,7 @@ set(
   header/TLVData.h
   header/TpktLayer.h
   header/UdpLayer.h
+  header/Vita49dot2Layer.h
   header/VlanLayer.h
   header/VrrpLayer.h
   header/VxlanLayer.h
